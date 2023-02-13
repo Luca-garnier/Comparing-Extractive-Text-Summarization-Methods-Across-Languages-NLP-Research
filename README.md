@@ -8,4 +8,4 @@ We explore the performance of various approaches to extractive text summarizatio
 ### Required Libraries:
 * `datasets` , `gensim` (`models` package), `matplotlib`, `networkx`, `nltk` (`corpus` and `tokenize` packages), `numpy`, `pandas`, `rouge`, `scipy`
 
-Please refer to *NLP-Research Paper.pdf* to view the analysis and product of our work. Dated -> March 2021
+Please refer to **NLP-Research Paper.pdf** to view the analysis and product of our work. Dated -> March 2021
