@@ -5,6 +5,8 @@
 
 We explore the performance of various approaches to extractive text summarization when applied to different languages. The summarizer models are in the folder `summarizers`, and the execution of the experiments and generation of plots are in `main.ipynb`.
 
+SEE PDF FOR RESEARCH PAPER
+
 ### Required Libraries:
 * `datasets` , `gensim` (`models` package), `matplotlib`, `networkx`, `nltk` (`corpus` and `tokenize` packages), `numpy`, `pandas`, `rouge`, `scipy`
 
